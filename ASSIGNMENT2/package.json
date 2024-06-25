@@ -1,10 +1,10 @@
 {
   "name": "celebal-node",
   "version": "1.0.0",
-  "main": "helloworld.js",
+  "main": "handling_files.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon index.js",
+    "dev":"nodemon handling_files.js",
     "start":"node handling_files.js"
   },
   "author": "",
